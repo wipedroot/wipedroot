@@ -13,7 +13,7 @@
   - 👀 Code, coffee and making things is what I love
   - 🌱 I’m currently looking into gamedev as an inspiration for learning
   - 💞️ I love all things bitcoin
-  - 📫 You can find me on [Bluesky](wipedroot.bsky.social), [twitter](https://twitter.com/wipedroot), or deep enough at #nostr protocol 
+  - 📫 You can find me on [BlueSky](wipedroot.bsky.social), [Twitter](https://twitter.com/wipedroot), or deep enough at #nostr protocol 
 
 <a href="https://twitter.com/wipedroot">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
